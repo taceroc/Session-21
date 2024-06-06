@@ -89,7 +89,7 @@ Thursday, March 28, 2024
 * 02:30 PM – 04:00 PM o [Problem IX](Day4/): High-Performance Python and Parallelization; L. Garrison 
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session
-* 06:30 PM - ??:?? PM o Group Dinner: 
+* 06:00 PM - ??:?? PM o Group Dinner: Big Grove Tavern 1 E Main St. Champaign, IL 
  
 ## Day 5 — GPU Accelerated Computing and Hack Session 
 
