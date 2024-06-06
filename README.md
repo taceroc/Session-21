@@ -23,7 +23,7 @@ Dr. Adam Miller [:octocat:](https://github.com/adamamiller)
 
 ~ Norman Ralph Augustine
 
-Monday, March 25, 2024
+Monday, June 3, 2024
 
 Data for day one exercises is available [here](https://drive.google.com/drive/folders/1C-iqwekJO7Ak68ImscGpE1_AKKgBrqO5?usp=share_link). 
 
@@ -45,7 +45,7 @@ Data for day one exercises is available [here](https://drive.google.com/drive/fo
 
 ~ Charles Babbage
 
-Tuesday, March 26, 2024
+Tuesday, June 4, 2024
 
 * 09:00 PM – 09:15 AM  o [Lecture IV](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day2/InadequateLaptop.pdf) This Laptop is Inadquate & Introduction to Data Organization; B. Scott  
 * 09:15 PM – 10:30 AM  o [Problem IV](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day2/IntroductionToDataOrganization.ipynb) Introduction to Data Organization; B. Scott 
@@ -64,7 +64,7 @@ Tuesday, March 26, 2024
 
 ~ Grace Hopper 
 
-~ Wednesday, March 27, 2024
+Wednesday, June 5, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII](Day3/OOP_DeepDives_Slides.pdf) OOP Deep Dives; O. Lynn 
 * 10:00 AM - 10:30 AM o BREAK
@@ -79,7 +79,7 @@ Visit and Tour of NCSA
 
 ~ Euclid 
 
-Thursday, March 28, 2024
+Thursday, June 6, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day4/Endgame%20Essentials.pdf): Endgame Essentials: CI, Docs, and Everything in Between; O. Lynn 
 * 10:00 AM – 10:30 AM o BREAK 
@@ -97,7 +97,7 @@ Thursday, March 28, 2024
 
 ~ Dr. Richard Daystrom, Star Trek TOS: The Ultimate Computer 
 
-Friday, March 29, 2024
+Friday, June 7, 2024
 
 * 9:00 AM - 10:00  AM o [Lecture X](Day5/): GPU-Accelerated Python; L. Garrison
 * 10:00 AM - 10:30  AM  o BREAK
